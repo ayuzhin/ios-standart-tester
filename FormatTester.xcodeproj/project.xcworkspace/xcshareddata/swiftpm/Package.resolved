@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "fileprovider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ayuzhin/FileProvider.git",
+      "state" : {
+        "revision" : "abf68a62541a4193c8d106367ddb3648e8ab693f",
+        "version" : "0.26.0"
+      }
+    }
+  ],
+  "version" : 2
+}
